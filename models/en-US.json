@@ -1,0 +1,43 @@
+{
+  "interactionModel": {
+      "languageModel": {
+          "invocationName": "random clash royale cards",
+          "intents": [
+              {
+                  "name": "AMAZON.FallbackIntent",
+                  "samples": []
+              },
+              {
+                  "name": "AMAZON.CancelIntent",
+                  "samples": []
+              },
+              {
+                  "name": "AMAZON.HelpIntent",
+                  "samples": []
+              },
+              {
+                  "name": "AMAZON.StopIntent",
+                  "samples": []
+              },
+              {
+                  "name": "GetRandomClashRoyaleCard",
+                  "slots": [],
+                  "samples": [
+                      "launch random clash royale cards",
+                      "open random clash royale cards",
+                      "get random clash royale cards"
+                  ]
+              },
+              {
+                  "name": "AMAZON.YesIntent",
+                  "samples": []
+              },
+              {
+                  "name": "AMAZON.NoIntent",
+                  "samples": []
+              }
+          ],
+          "types": []
+      }
+  }
+}
